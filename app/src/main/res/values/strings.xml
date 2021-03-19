@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="label_email">E-mail Address</string>
+    <string name="lapel_password">Password</string>
+    <string name="lapel_conf_password">Confirm Password</string>
+
+    <string name="lapel_forgot">Forgot Password?</string>
+    <string name="lapel_create_account">Create Account</string>
+    <string name="label_log_in">Log In</string>
+    <string name="label_log_out">Log Out</string>
+</resources>
